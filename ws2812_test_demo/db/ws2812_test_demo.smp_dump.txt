@@ -1,0 +1,7 @@
+
+State Machine - |ws2812_drv|state
+Name state.BIT_SEND_LOW state.BIT_SEND_HIGH state.DATA_SEND state.00 
+state.00 0 0 0 0 
+state.DATA_SEND 0 0 1 1 
+state.BIT_SEND_HIGH 0 1 0 1 
+state.BIT_SEND_LOW 1 0 0 1 

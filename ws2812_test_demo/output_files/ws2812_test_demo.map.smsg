@@ -1,0 +1,1 @@
+Info (10281): Verilog HDL Declaration information at ws2812_drv.v(23): object "DATA_SEND" differs only in case from object "data_send" in the same scope File: E:/FPGAworkspace/QuartusProjects/ws2812_test_demo/ws2812_drv.v Line: 23
